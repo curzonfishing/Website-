@@ -15,7 +15,7 @@ post_date: 2018-09-22 19:38:48
 
 <!-- wp:html -->
 </strong></p>
-<p style="text-align: center;"><strong>We cap our club at 20 anglers.&nbsp; When we have a full compliment anyone wanting to join will be put onto a waiting list. If a member doesn't&nbsp; fish at least 10 matches throughout the season, we will review there membership and possibly replace them with someone that’s on the waiting list who could potentially fish more match’s. At anytime the committee have the right to ask any angler breaking rules or causing problems to leave the club</strong></p>
+<p style="text-align: center;"><strong>We cap our club at 20 anglers.&nbsp; When we have a full compliment anyone wanting to join will be put onto a waiting list. If a member doesn't&nbsp; fish at least 10 matches throughout the season, we will review there membership and possibly replace them with someone who is on the waiting list who could potentially fish more match’s. At anytime the committee have the right to ask any angler breaking rules or causing problems to leave the club</strong></p>
 <p style="text-align: center;"><strong>
 <!-- /wp:html -->
 
