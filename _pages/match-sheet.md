@@ -4,7 +4,7 @@ post_title: Match Sheet
 author: Web Master
 post_excerpt: ""
 layout: page
-permalink: http://www.curzon.fishing/test/
+permalink: http://www.curzon.fishing/match-sheet/
 published: true
 post_date: 2019-01-14 18:00:08
 ---
