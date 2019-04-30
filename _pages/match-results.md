@@ -24,8 +24,8 @@ post_date: 2018-08-24 21:45:57
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":537} -->
-<figure class="wp-block-image"><img src="http://www.curzon.fishing/wp-content/uploads/2019/01/april28.jpg" alt="" class="wp-image-537"/></figure>
+<div class="wp-block-column"><!-- wp:image {"id":568} -->
+<figure class="wp-block-image"><img src="http://www.curzon.fishing/wp-content/uploads/2019/04/280419.png" alt="" class="wp-image-568"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":540} -->
