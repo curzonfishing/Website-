@@ -32,8 +32,6 @@ post_date: 2018-08-24 21:45:57
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":538} -->
-<figure class="wp-block-image"><img src="http://www.curzon.fishing/wp-content/uploads/2019/01/june2.jpg" alt="" class="wp-image-538"/></figure>
-<!-- /wp:image --></div>
+<div class="wp-block-column"></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
