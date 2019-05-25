@@ -4,7 +4,8 @@ post_title: Join us
 author: mikey69
 post_excerpt: ""
 layout: page
-permalink: http://www.curzon.fishing/join_us/
+permalink: >
+  http://www.curzon.fishing/its-simple-to-join-us/
 published: true
 post_date: 2018-09-22 19:38:48
 ---
