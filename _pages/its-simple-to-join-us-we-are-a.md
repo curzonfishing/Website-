@@ -5,7 +5,7 @@ author: mikey69
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.curzon.fishing/its-simple-to-join-us/
+  http://www.curzon.fishing/its-simple-to-join-us-we-are-a/
 published: true
 post_date: 2018-09-22 19:38:48
 ---
