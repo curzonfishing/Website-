@@ -10,7 +10,11 @@ post_date: 2018-08-24 21:45:57
 ---
 <!-- wp:columns -->
 <div class="wp-block-columns has-2-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":625} -->
+<div class="wp-block-column"><!-- wp:image {"id":630} -->
+<figure class="wp-block-image"><img src="http://www.curzon.fishing/wp-content/uploads/2019/07/300619.jpg" alt="" class="wp-image-630"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":625} -->
 <figure class="wp-block-image"><img src="http://www.curzon.fishing/wp-content/uploads/2019/07/230619.jpg" alt="" class="wp-image-625"/></figure>
 <!-- /wp:image -->
 
