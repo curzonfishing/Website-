@@ -16,6 +16,10 @@ post_date: 2018-08-22 16:02:47
 <p style="text-align: center;"><strong>In 2008 the name was changed to the Curzon club. It is now being run by Craig Charlton, Richard Cowans, Steven Charlton and a great bunch of lads.</strong></p>
 <p>&nbsp;</p>
 
+<!-- wp:image {"id":645} -->
+<figure class="wp-block-image"><img src="http://www.curzon.fishing/wp-content/uploads/2018/08/IMG-9890-1024x768.jpg" alt="" class="wp-image-645"/></figure>
+<!-- /wp:image -->
+
 <!-- wp:image {"id":403} -->
 <figure class="wp-block-image"><img src="http://www.curzon.fishing/wp-content/uploads/2018/12/CF-HEADER-2-67x13-FELLASopti-1024x205.jpg" alt="" class="wp-image-403"/></figure>
 <!-- /wp:image -->
