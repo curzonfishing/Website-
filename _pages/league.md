@@ -8,6 +8,6 @@ permalink: http://www.curzon.fishing/league/
 published: true
 post_date: 2018-08-24 21:53:07
 ---
-<!-- wp:image {"id":699} -->
-<figure class="wp-block-image"><img src="http://www.curzon.fishing/wp-content/uploads/2019/10/image001-13.png" alt="" class="wp-image-699"/></figure>
+<!-- wp:image {"id":704} -->
+<figure class="wp-block-image"><img src="http://www.curzon.fishing/wp-content/uploads/2019/10/image001-15.png" alt="" class="wp-image-704"/></figure>
 <!-- /wp:image -->
